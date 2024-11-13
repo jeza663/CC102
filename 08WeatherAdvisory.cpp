@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	int temperature;
 	
-	// Promt user for the temperature
+	// Prompt user for the temperature
 	cout << "Enter the temperature: ";
 	cin >> temperature;
 	
